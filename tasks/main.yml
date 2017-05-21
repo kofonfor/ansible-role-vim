@@ -1,0 +1,2 @@
+- name: install ViM
+  package: name=vim
